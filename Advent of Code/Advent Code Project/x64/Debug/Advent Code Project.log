@@ -1,0 +1,47 @@
+﻿  Advent Code Project.cpp
+  Day1Task1.cpp
+  Day1Task2.cpp
+C:\Users\marti\OneDrive\Dokumenter\Advent of Code\Advent Code Project\Day1Task1.cpp(15,33): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\marti\OneDrive\Dokumenter\Advent of Code\Advent Code Project\Day1Task1.cpp(15,33): warning C4305: 'initializing': truncation from 'int' to 'char'
+C:\Users\marti\OneDrive\Dokumenter\Advent of Code\Advent Code Project\Day1Task1.cpp(15,33): warning C4309: 'initializing': truncation of constant value
+C:\Users\marti\OneDrive\Dokumenter\Advent of Code\Advent Code Project\Day1Task1.cpp(15,39): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\marti\OneDrive\Dokumenter\Advent of Code\Advent Code Project\Day1Task1.cpp(15,39): warning C4305: 'initializing': truncation from 'int' to 'char'
+C:\Users\marti\OneDrive\Dokumenter\Advent of Code\Advent Code Project\Day1Task1.cpp(15,39): warning C4309: 'initializing': truncation of constant value
+C:\Users\marti\OneDrive\Dokumenter\Advent of Code\Advent Code Project\Day1Task2.cpp(41,29): warning C4305: 'initializing': truncation from 'int' to 'char'
+C:\Users\marti\OneDrive\Dokumenter\Advent of Code\Advent Code Project\Day1Task2.cpp(41,31): warning C4309: 'initializing': truncation of constant value
+C:\Users\marti\OneDrive\Dokumenter\Advent of Code\Advent Code Project\Day1Task2.cpp(42,30): warning C4305: 'initializing': truncation from 'int' to 'char'
+C:\Users\marti\OneDrive\Dokumenter\Advent of Code\Advent Code Project\Day1Task2.cpp(42,32): warning C4309: 'initializing': truncation of constant value
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,16): warning C4267: 'initializing': conversion from 'size_t' to '_Ty1', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,16): warning C4267:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,16): warning C4267:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,16): warning C4267:             _Ty1=const int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,16): warning C4267:         ]
+  (compiling source file 'Day1Task2.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(250,16):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\marti\OneDrive\Dokumenter\Advent of Code\Advent Code Project\Day1Task2.cpp(25,26):
+  	see reference to function template instantiation 'std::pair<const int,char>::pair<size_t&,_Ty2&,0>(_Other1,_Other2) noexcept' being compiled
+          with
+          [
+              _Ty2=char,
+              _Other1=size_t &,
+              _Other2=char &
+          ]
+  		C:\Users\marti\OneDrive\Dokumenter\Advent of Code\Advent Code Project\Day1Task2.cpp(25,25):
+  		see the first reference to 'std::pair<const int,char>::pair' in 'adventCoding::Day1Task2::FindNumberInWordsAndDigits'
+  
+  Day2Task1.cpp
+  Day2Task2.cpp
+  Day3Task1.cpp
+C:\Users\marti\OneDrive\Dokumenter\Advent of Code\Advent Code Project\Day3Task1.cpp(14,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\marti\OneDrive\Dokumenter\Advent of Code\Advent Code Project\Day3Task1.cpp(15,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\marti\OneDrive\Dokumenter\Advent of Code\Advent Code Project\Day3Task1.cpp(86,55): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\marti\OneDrive\Dokumenter\Advent of Code\Advent Code Project\Day3Task1.cpp(91,78): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Day3Task2.cpp
+C:\Users\marti\OneDrive\Dokumenter\Advent of Code\Advent Code Project\Day3Task2.cpp(14,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\marti\OneDrive\Dokumenter\Advent of Code\Advent Code Project\Day3Task2.cpp(15,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Day4Task1.cpp
+  GeneralUse.cpp
+  Test.cpp
+  Generating Code...
+  Advent Code Project.vcxproj -> C:\Users\marti\OneDrive\Dokumenter\Advent of Code\Advent Code Project\x64\Debug\Advent Code Project.exe
